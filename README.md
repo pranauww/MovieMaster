@@ -128,7 +128,7 @@ const fetchMovies = async () => {
 ## Screenshot
 
 Here is a screenshot of the application:
-![Screenshot](src/assets/Screenshot (30).png)
+![Screenshot](src/assets/Screenshot(30).png)
 
 ## Future Enhancements
 
